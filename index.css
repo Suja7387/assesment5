@@ -1,0 +1,152 @@
+img{
+background-repeat: inherit;    
+}
+
+.container {
+    display: flex;
+  }
+  .container > div {
+    flex: 1; /*grow*/
+  }
+.sujal3{
+    border: solid red 1px;
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: auto;
+    font-size: 10px;
+   border-radius: 10px;
+   text-align: center;
+   padding-top: 10px;
+   margin: 5px;
+   font-weight: bolder;
+}
+.sujal4{
+    border: solid red 1px;
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: auto;
+    font-size: 10px;
+   border-radius: 10px;
+   text-align: center;
+   padding-top: 10px;
+   margin: 5px;
+   font-weight: bolder;
+}
+.sujal5{
+    border: solid red 1px;
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: auto;
+    font-size: 10px;
+   border-radius: 10px;
+   text-align: center;
+   padding-top: 10px;
+   margin: 5px;
+   font-weight: bolder;
+
+
+}
+/* .form{
+    height: 50px;
+    width: 50px;
+} */
+.sujal6{
+    
+    border: dashed red 2px;
+    margin-left:auto;
+    margin-right: 40px;
+    font-size: 10px;
+    text-align: center;
+    color: red;
+    background-color: white;
+    width: 180px;
+
+}
+h1{
+    color: red;
+}
+input{
+    width: 70px;
+    height: 7px;
+    font-size: 5px;
+    
+}
+.sujal9{
+    width: 40px;
+    height: 12px;
+}
+.sujal10{
+    width: 40px;
+    height: 12px;
+}
+.sujal8{
+    border: solid red 1px;
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+   border-radius: 10px;
+   text-align: center;
+   padding-top: 15px;
+   margin: 5px;
+   text-align: center;
+   margin-left: 230px;
+   margin-right: auto;
+}
+.class{
+    background-color: chartreuse;
+    background-image: url('./background.jfif');
+    
+    width: 150px;
+    height: 300px;
+    margin: 5px;
+    padding: 5px;
+    padding-left: 30px;
+    border: solid red 1px;
+    border-radius: 10px;
+    
+    
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+h4{
+    color: red;
+}
+.a{
+    border:solid rgb(17, 150, 17) 2px;
+    margin: 0;
+}
+
+
+  #parent1{
+      display: flex;
+  }
+  .circle {
+    background: rgb(0, 255, 179);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:5px;
+    overflow:hidden;
+    padding:25px;
+    position:relative;
+    margin-top: 80px;
+    margin-left: 50px;
+    border: solid white 2px;
+    
+}
+.text{
+  transform:translate(-50%,-50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+  
+}
